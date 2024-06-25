@@ -1,4 +1,4 @@
-<h1>Emotion Detector Using Python and Flask</h1>
+<h1>Emotion Detection Using Python and Flask</h1>
 
 **Introduction**
 
