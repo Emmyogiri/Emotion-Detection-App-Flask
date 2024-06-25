@@ -2,7 +2,7 @@
 
 **Introduction**
 
-In this project, I demonstrated my knowledge and skills in app creation and web deployment. The project involves creating an emotion detection application using the Watson AI libraries and deploying it as a web application with Flask. It was required that I performed various tasks and submit my results with specific nomenclature.
+In this project, I demonstrated my knowledge and skills in application creation and web deployment. The project involves creating an emotion detection application using the Watson AI libraries and deploying it as a web application with Flask. It was required that I performed various tasks and submit my results with specific nomenclature.
 
 **Emotion Detection**
 
