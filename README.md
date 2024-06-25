@@ -10,7 +10,7 @@ Emotion detection goes beyond sentiment analysis by extracting more nuanced emot
 
 **Project Tasks**
 
-To successfully complete this project, you need to perform the following tasks:
+To successfully complete this project, I needed to perform the following tasks:
 
 **Task 1: Clone the Project Repository**
 
