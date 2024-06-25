@@ -14,7 +14,7 @@ To successfully complete this project, you need to perform the following tasks:
 
 **Task 1: Clone the Project Repository**
 
-Begin by cloning the project repository to your local environment. This step will provide you with the necessary code and resources to commence your work. The original project link is: Original Project Repository. However, I have cloned it on my local machine and pushed it to a new repository for the purpose of using it in the Cloud IDE. The link to my repository is: My Repository.
+Begin by cloning the project repository to your local environment. This step will provide you with the necessary code and resources to commence your work.
 
 **Task 2: Create an Emotion Detection Application**
 
